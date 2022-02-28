@@ -301,6 +301,10 @@ http://39.134.66.110/PLTV/88888888/224/3221225935/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
 #EXTINF:-1 tvg-logo= 江西卫视.png tvg-name= 江西卫视  group-title=卫视频道, 江西卫视
 http://140.207.241.3:8080/live/program/live/jxwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo= 凤凰卫视.png tvg-name= 凤凰卫视  group-title=卫视频道, 凤凰卫视
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 tvg-logo= 凤凰资讯.png tvg-name= 凤凰资讯  group-title=卫视频道, 凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 #EXTINF:-1 ,金牌综艺
 http://39.134.66.110/PLTV/88888888/224/3221225525/index.m3u8
 #EXTINF:-1 ,古装剧场
